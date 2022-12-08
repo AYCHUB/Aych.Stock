@@ -7,7 +7,7 @@
 arrow==0.15.5             # via django-q
 asgiref==3.2.3            # via django
 blessed==1.17.2           # via django-q
-certifi==2019.11.28       # via requests
+certifi==2022.12.7       # via requests
 chardet==3.0.4            # via requests
 coreapi==2.3.3
 coreschema==0.0.4         # via coreapi
